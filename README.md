@@ -1,7 +1,6 @@
 # SchoolSystem-Redesign
 Redesign of the Verbis school system UI with updated branding, improved usability, and accessibility-focused design, including a Figma-based UI design system and high-fidelity mockups.
 
-![Project Banner](Redesign_Preview.png) 
 
 ## Project Overview
 This project is a **complete UI redesign and branding overhaul** of the existing Verbis school system. The goal was to enhance usability, accessibility, and aesthetic appeal for students, educators, and administrative staff, aligning with the school's mission to provide innovative and inclusive educational solutions.
