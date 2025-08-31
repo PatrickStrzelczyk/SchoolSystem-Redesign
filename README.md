@@ -68,3 +68,6 @@ The redesign focuses on modern digital interfaces while keeping user needs at th
 - Reflective documentation on the redesign process
 
 ---
+
+## Links
+- [Figma Prototype](https://www.figma.com/design/aUBD5q5WrF6GMPil2sEwDq/Prototype-For-Final-Project-Version-1?node-id=0-1&p=f&t=2rdYRAFu6Kd1Jtlv-0)
